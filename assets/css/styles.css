@@ -7,3 +7,7 @@
 #computadora-carta, #jugador-carta {
     height: 240px;
 }
+span {
+    color: rgb(137, 185, 137);
+    font-size: 15px;
+}
